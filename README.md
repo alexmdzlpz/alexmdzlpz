@@ -19,5 +19,3 @@ Selected engineering, research, and music technology projects will be published 
 - [LinkedIn](https://www.linkedin.com/in/alexmdzlpz/)
 - [ResearchGate](https://www.researchgate.net/profile/Victor-Alejandro-Mendez-Lopez-2)
 - [Upwork](https://www.upwork.com/freelancers/~01b613371291a90713)
-
-## Have a nice day!
