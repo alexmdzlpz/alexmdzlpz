@@ -6,7 +6,7 @@ I'm an electronics engineer and Computer Science Ph.D. candidate at UASLP, with 
 
 - 🔭 Ph.D. research: Adaptive visual tracking on SoC-FPGA platforms.
 - ⚙️ Engineering: Embedded systems, firmware, instrumentation, automation, and electronic design.
-- 💻 Technologies: C/C++, Python, microcontrollers, embedded Linux, and FPGA.
+- 💻 Technologies: C/C++, Python, embedded Linux, ARM, AVR/Arduino, and SoC-FPGA.
 - 🤝 Open to collaboration in embedded engineering and applied R&D.
 - 🎵 Personal interests: Music composition, MIDI, and music technology (Scorebridge).
 
