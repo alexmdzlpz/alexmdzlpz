@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Alex Méndez-López
 
-<!--
-**alexmdzlpz/alexmdzlpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an electronics engineer and Computer Science Ph.D. candidate at UASLP, with experience in embedded systems, electronic instrumentation, industrial automation, and hardware–software integration.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Ph.D. research: Adaptive visual tracking on SoC-FPGA platforms.
+- ⚙️ Engineering: Embedded systems, firmware, instrumentation, automation, and electronic design.
+- 💻 Technologies: C/C++, Python, microcontrollers, embedded Linux, and FPGA.
+- 🤝 Open to collaboration in embedded engineering and applied R&D.
+- 🎵 Personal interests: Music composition, MIDI, and music technology (Scorebridge).
+
+## Projects
+
+Selected engineering, research, and music technology projects will be published here.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/alexmdzlpz/)
+- [ResearchGate](https://www.researchgate.net/profile/Victor-Alejandro-Mendez-Lopez-2)
+- [Upwork](https://www.upwork.com/freelancers/~01b613371291a90713)
+
+## Have a nice day!
